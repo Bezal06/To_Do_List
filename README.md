@@ -52,15 +52,7 @@ In order to run this project you need:
  A browser like Microsoft Edge, Google Chrome or Mozilla Firefox
  Git installed
  Webpack installed
-Setup
- Link your PC to GitHub
- Clone this repository to your desired folder:
-git clone https://github.com/miltonHenschel/ToDoList-App.git
-cd ToDoList-App
- Open the file in your code editor
-code .
- Setup JavaScript + CSS + HTML linter
-Run the following codes in your project folder in your IDE:
+
 
 npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
 npm install --save-dev eslint@7.x eslint-config-airbnb-base@14.x eslint-plugin-import@2.x babel-eslint@10.x
